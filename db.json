@@ -18,21 +18,93 @@
     "experiencias": [
       {
         "id": 1,
-        "tipo": "Profissional",
-        "titulo": "Desenvolvedor de Software Full Stack",
-        "descricao": "Comeia",
-        "local": "Home Office",
-        "dataInicio": "08/2023",
-        "dataFim": "Atual"
+        "tipo": "Academica",
+        "titulo": "Informática Básica",
+        "descricao": "Informática Básica e Montagem de Computadores",
+        "local": "T&T Informática/Caruaru",
+        "dataInicio": "-",
+        "dataFim": "12/2006"
       },
       {
         "id": 2,
+        "tipo": "Academica",
+        "titulo": "Curso de Python",
+        "descricao": "Mundo 01: Fundamentos: Programação",
+        "local": "CursoemVideo.com/Online",
+        "dataInicio": "-",
+        "dataFim": "03/2018"
+      },
+      {
+        "id": 3,
+        "tipo": "Academica",
+        "titulo": "Bacharel em Design",
+        "descricao": "Curso de Formação Superior em Design",
+        "local": "Universidade Federal de Pernambuco/Caruaru",
+        "dataInicio": "-",
+        "dataFim": "12/2019"
+      },
+      {
+        "id": 4,
+        "tipo": "Academica",
+        "titulo": "Libras",
+        "descricao": "Básico I e II e Intermediário I",
+        "local": "Escola de Governo/Caruaru",
+        "dataInicio": "-",
+        "dataFim": "05/2023"
+      },
+      {
+        "id": 5,
         "tipo": "Academica",
         "titulo": "Curso de Programação",
         "descricao": "Curso Básico de JavaScript",
         "local": "CursoemVideo.com/Online",
         "dataInicio": "-",
         "dataFim": "cursando/2023"
+      },
+      {
+      "id": 6,
+        "tipo": "Academica",
+        "titulo": "Curso de Programação",
+        "descricao": "Curso de Desenvolvedor Jr Full Stack",
+        "local": "Comeia Academy/Online",
+        "dataInicio": "-",
+        "dataFim": "cursando/2023"
+      },
+      {
+        "id": 7,
+        "tipo": "Profissional",
+        "titulo": "Empacotador/Passador",
+        "descricao": "Atacadão Auto Serviço",
+        "local": "Caruaru/PE",
+        "dataInicio": "10/2008",
+        "dataFim": "03/2012"
+      },
+      {
+        "id": 8,
+        "tipo": "Profissional",
+        "titulo": "Auxiliar de Processos I",
+        "descricao": "Nagem Comércio de Informática",
+        "local": "Caruaru/PE",
+        "dataInicio": "04/2012",
+        "dataFim": "10/2015"
+      },
+      {
+        "id": 9,
+        "tipo": "Profissional",
+        "titulo": "Auxiliar Administrativo",
+        "descricao": "Secretaria de Saúde de Caruaru",
+        "local": "Caruaru/PE",
+        "dataInicio": "10/2015",
+        "dataFim": "03/2022"
+      },
+      {
+        "id": 10,
+        "tipo": "Profissional",
+        "titulo": "Pregoeiro",
+        "descricao": "Secretaria de Saúde de Caruaru",
+        "local": "Caruaru/PE",
+        "dataInicio": "04/2022",
+        "dataFim": "Atual"
       }
     ],
     "portfolio": [
